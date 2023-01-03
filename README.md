@@ -24,7 +24,7 @@ Using Amazon Web Services, our system is a fully serverless experience with a mu
 - VPC
 - S3
 
-![Diagram](./a3.png)
+![Diagram](./Diagram.png)
 
 ## Repo breakdown:
 
@@ -33,5 +33,5 @@ Lambda Functions are contained within directories if they are Javascript based o
 The CloudFormation file is called CFM.YAML
 
 ## Contributors 
-Arsh Dhillon
+Arsh Dhillon, 
 Guarav Setia
