@@ -12,7 +12,7 @@ We recreated Reddit's famous April Fools event called r/place where individuals 
 ## Design
 
 We designed this system using the principles that the [original creators of r/place used](https://www.redditinc.com/blog/how-we-built-rplace/).
-Using Amazon Web Services, our system is a fully serverless experience with a multiude of Amazon services working together which includes:
+Using Amazon Web Services, our system is a fully serverless experience with a multitude of Amazon services working together which includes:
 - Amplify
 - Lambda
 - Elasticache 
@@ -32,4 +32,6 @@ Lambda Functions are contained within directories if they are Javascript based o
 
 The CloudFormation file is called CFM.YAML
 
-The report can be found in a3.pdf, along with an a3.png for our diagram. 
+## Contributors 
+Arsh Dhillon
+Guarav Setia
